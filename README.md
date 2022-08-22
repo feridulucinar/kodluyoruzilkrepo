@@ -31,4 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Links
 
-[Patika dev linki](https://www.patika.dev/tr) 
+[Patika dev linki](https://app.patika.dev/fulbaibu) 
